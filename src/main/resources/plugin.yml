@@ -1,0 +1,4 @@
+name: MicLoSKnock
+version: '${project.version}'
+main: net.syobonoon.plugin.miclosknock.MicLoSKnock
+api-version: 1.15
